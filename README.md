@@ -12,6 +12,7 @@ awesomeな自作hogehogeまとめ
 - [低レイヤを知りたい人のためのCコンパイラ作成入門](https://www.sigbus.info/compilerbook)
 - [ふつうのコンパイラをつくろう　言語処理系をつくりながら学ぶコンパイルと実行環境の仕組み](https://www.amazon.co.jp/dp/B06XZSH7Q9/)
 - [Pythonでインタプリタを作る　コンピュータ言語を設計・実装してインタプリタの動作を理解しよう](https://www.amazon.co.jp/dp/B08WRYZYVX)
+- [Go言語でつくるインタプリタ](https://www.oreilly.co.jp/books/9784873118222/)
 
 ## CPU
 - [CPUの創りかた](https://www.amazon.co.jp/dp/B08639XM13/)
