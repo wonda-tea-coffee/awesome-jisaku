@@ -24,6 +24,8 @@ awesomeな自作hogehogeまとめ
 - [12ステップで作る組込みOS自作入門](https://www.amazon.co.jp/dp/4877832394/)
 - [30日でできる! OS自作入門](https://www.amazon.co.jp/dp/B00IR1HYI0)
 - [作って理解するOS x86系コンピュータを動かす理論と実装 Kindle版](https://www.amazon.co.jp/dp/B07YBQY75J)
+- [Writing an OS in Rust](https://os.phil-opp.com/)
+- [The Adventures of OS: Making a RISC-V Operating System using Rust](http://osblog.stephenmarz.com/index.html)
 
 ## プロトコル
 - [Rustで始めるTCP自作入門](https://www.amazon.co.jp/dp/B09FG2SL2S)
