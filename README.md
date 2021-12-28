@@ -3,7 +3,8 @@ awesomeな自作hogehogeまとめ
 
 ## RDB
 - [Rustで実装！作って学ぶRDBMSのしくみ](https://www.amazon.co.jp/dp/B092Q8SKDB)
-  
+- [RustでPostgreSQLの拡張を作ってみる](https://qiita.com/sonesuke/items/0f9cd1baf8d11f3f4e16)
+
 ## プログラミング言語
 - [新言語『TypoScript』を作った](https://qiita.com/kurehajime/items/e9a90c1d3705fbc8197a)
 - [RubyでつくるRuby ゼロから学びなおすプログラミング言語入門](https://www.lambdanote.com/collections/ruby-ruby/products/ruby-ruby-ebook)
