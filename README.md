@@ -30,8 +30,9 @@ awesomeな自作hogehogeまとめ
 - [The Adventures of OS: Making a RISC-V Operating System using Rust](http://osblog.stephenmarz.com/index.html)
 - [Linux eBPFトレーシング技術の概論とツール実装](https://blog.yuuk.io/entry/2021/ebpf-tracing)
 
-## プロトコル
+## ネットワーク
 - [Rustで始めるTCP自作入門](https://www.amazon.co.jp/dp/B09FG2SL2S)
+- [net／httpでつくるHTTPルーター 自作入門](https://zenn.dev/bmf_san/books/3f41c5cd34ec3f)
 
 ## エミュレータ
 - [自作エミュレータで学ぶx86アーキテクチャ　コンピュータが動く仕組みを徹底理解！](https://www.amazon.co.jp/dp/B0148FQNVC)
@@ -57,5 +58,10 @@ awesomeな自作hogehogeまとめ
 ## 検索エンジン
 - [検索エンジン自作入門～手を動かしながら見渡す検索の舞台裏](https://www.amazon.co.jp/dp/B00NUZ32MU)
 
+## 組み込み
+- [https://qiita.com/ochaochaocha3/items/1969d76debd6d3b42269](https://qiita.com/ochaochaocha3/items/1969d76debd6d3b42269)
+
 ## 未分類
 - [Rustで実装するmalloc](https://engineers.ntt.com/entry/2021/12/21/125459)
+- [フルスクラッチでSHA-256を作る](https://zenn.dev/kota_yata/articles/ce45080b2e8cae)
+- [Chrome拡張でキーロガーが作れそうなことの確認と危険を避けるために拡張のソースを読む方法](https://zenn.dev/ken1flan/articles/2bbf632e8a36f1)
