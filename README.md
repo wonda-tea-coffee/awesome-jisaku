@@ -59,9 +59,10 @@ awesomeな自作hogehogeまとめ
 - [検索エンジン自作入門～手を動かしながら見渡す検索の舞台裏](https://www.amazon.co.jp/dp/B00NUZ32MU)
 
 ## 組み込み
-- [https://qiita.com/ochaochaocha3/items/1969d76debd6d3b42269](https://qiita.com/ochaochaocha3/items/1969d76debd6d3b42269)
+- [Raspberry Pi Picoで組込みRust開発](https://qiita.com/ochaochaocha3/items/1969d76debd6d3b42269)
 
 ## 未分類
 - [Rustで実装するmalloc](https://engineers.ntt.com/entry/2021/12/21/125459)
 - [フルスクラッチでSHA-256を作る](https://zenn.dev/kota_yata/articles/ce45080b2e8cae)
 - [Chrome拡張でキーロガーが作れそうなことの確認と危険を避けるために拡張のソースを読む方法](https://zenn.dev/ken1flan/articles/2bbf632e8a36f1)
+- [OAuth 2.0 の勉強のために認可サーバーを自作する](https://qiita.com/TakahikoKawasaki/items/e508a14ed960347cff11)
