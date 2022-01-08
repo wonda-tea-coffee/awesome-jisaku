@@ -48,6 +48,7 @@ awesomeな自作hogehogeまとめ
 
 ## HTTPサーバ
 - [Ruby 3: FiberやRactorでHTTPサーバーを手作りする（翻訳）](https://techracho.bpsinc.jp/hachi8833/2021_11_05/112651)
+- [ShellScriptで作るウェブサーバー](https://qiita.com/trkbt10/items/0faf7a3e48d22c650abc)
 
 ## コンテナ
 - [自作して学ぶKubernetes Scheduler](https://engineering.mercari.com/blog/entry/20211220-create-your-kube-scheduler/)
