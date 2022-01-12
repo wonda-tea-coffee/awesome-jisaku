@@ -23,6 +23,7 @@ awesomeな自作hogehogeまとめ
 - [動かしてわかる CPUの作り方10講](https://www.amazon.co.jp/dp/B07WNLZJC4)
 
 ## OS
+- [チュートリアル – システムコールの書き方](https://postd.cc/kernel-dev-ep3/)
 - [ゼロからのOS自作入門](https://www.amazon.co.jp/dp/B08Z3MNR9J/)
 - [12ステップで作る組込みOS自作入門](https://www.amazon.co.jp/dp/4877832394/)
 - [30日でできる! OS自作入門](https://www.amazon.co.jp/dp/B00IR1HYI0)
