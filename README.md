@@ -36,6 +36,7 @@ awesomeな自作hogehogeまとめ
 
 ## エミュレータ
 - [自作エミュレータで学ぶx86アーキテクチャ　コンピュータが動く仕組みを徹底理解！](https://www.amazon.co.jp/dp/B0148FQNVC)
+- [エミュレータ作ったらCPUを完全に理解した話 〜低レイヤ基礎知識を添えて〜](https://qiita.com/yusuke_blog1026/items/9ae25b5278a39556c8f9)
 - [OCaml でゲームボーイエミュレータを書いた話](https://qiita.com/linoscope/items/244d931aaae07df2c27e)
 
 ## AI
