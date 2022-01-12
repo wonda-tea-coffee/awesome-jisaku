@@ -16,6 +16,7 @@ awesomeな自作hogehogeまとめ
 - [Go言語でつくるインタプリタ](https://www.oreilly.co.jp/books/9784873118222/)
 
 ## CPU
+- [CPUを1から作ってみた話。](https://qiita.com/yusuke_blog1026/items/df60eabaf5cc961c02d7)
 - [CPUの創りかた](https://www.amazon.co.jp/dp/B08639XM13/)
 - [RISC-VとChiselで学ぶ　はじめてのCPU自作　――オープンソース命令セットによるカスタムCPU実装への第一歩](https://www.amazon.co.jp/dp/B09CT1T9HT)
 - [作ろう！CPU](https://www.amazon.co.jp/dp/B08GP3PPCX)
@@ -30,17 +31,14 @@ awesomeな自作hogehogeまとめ
 - [The Adventures of OS: Making a RISC-V Operating System using Rust](http://osblog.stephenmarz.com/index.html)
 - [Linux eBPFトレーシング技術の概論とツール実装](https://blog.yuuk.io/entry/2021/ebpf-tracing)
 
-## ネットワーク
-- [Rustで始めるTCP自作入門](https://www.amazon.co.jp/dp/B09FG2SL2S)
-- [net／httpでつくるHTTPルーター 自作入門](https://zenn.dev/bmf_san/books/3f41c5cd34ec3f)
-
 ## エミュレータ
 - [自作エミュレータで学ぶx86アーキテクチャ　コンピュータが動く仕組みを徹底理解！](https://www.amazon.co.jp/dp/B0148FQNVC)
 - [エミュレータ作ったらCPUを完全に理解した話 〜低レイヤ基礎知識を添えて〜](https://qiita.com/yusuke_blog1026/items/9ae25b5278a39556c8f9)
 - [OCaml でゲームボーイエミュレータを書いた話](https://qiita.com/linoscope/items/244d931aaae07df2c27e)
 
-## AI
-- [ラズパイとEdge TPUで学ぶAIの作り方](https://www.amazon.co.jp/dp/B085HCLKRQ)
+## ネットワーク
+- [Rustで始めるTCP自作入門](https://www.amazon.co.jp/dp/B09FG2SL2S)
+- [net／httpでつくるHTTPルーター 自作入門](https://zenn.dev/bmf_san/books/3f41c5cd34ec3f)
 
 ## ブラウザ
 - [Webブラウザ自作してみた](https://www.amazon.co.jp/dp/B09NBMV9TF)
@@ -57,8 +55,12 @@ awesomeな自作hogehogeまとめ
 ## CMS
 - [フルスクラッチから1日でCMSを作る_シェルスクリプト高速開発手法入門](https://www.amazon.co.jp/dp/B07TSZZPWN)
 
+
 ## 検索エンジン
 - [検索エンジン自作入門～手を動かしながら見渡す検索の舞台裏](https://www.amazon.co.jp/dp/B00NUZ32MU)
+
+## AI
+- [ラズパイとEdge TPUで学ぶAIの作り方](https://www.amazon.co.jp/dp/B085HCLKRQ)
 
 ## 組み込み
 - [Raspberry Pi Picoで組込みRust開発](https://qiita.com/ochaochaocha3/items/1969d76debd6d3b42269)
