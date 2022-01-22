@@ -45,6 +45,7 @@ awesomeな自作hogehogeまとめ
 - [Webブラウザ自作してみた](https://www.amazon.co.jp/dp/B09NBMV9TF)
 - [Webブラウザの作り方](https://qiita.com/uint256_t/items/01308b46ea839ba4a919)
 - [自作OS×自作ブラウザで学ぶ Webページが表示されるまで](https://www.amazon.co.jp/dp/B08Q764JKR)
+- [WIP:ちいさなWebブラウザを作ってみよう](https://browserbook.shift-js.info/)
 
 ## HTTPサーバ
 - [Ruby 3: FiberやRactorでHTTPサーバーを手作りする（翻訳）](https://techracho.bpsinc.jp/hachi8833/2021_11_05/112651)
