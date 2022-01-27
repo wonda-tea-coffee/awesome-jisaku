@@ -1,26 +1,8 @@
 # awesome-jisaku
 awesomeな自作hogehogeまとめ
 
-## RDB
-- [Rustで実装！作って学ぶRDBMSのしくみ](https://www.amazon.co.jp/dp/B092Q8SKDB)
-- [RustでPostgreSQLの拡張を作ってみる](https://qiita.com/sonesuke/items/0f9cd1baf8d11f3f4e16)
-
-## プログラミング言語
-- [新言語『TypoScript』を作った](https://qiita.com/kurehajime/items/e9a90c1d3705fbc8197a)
-- [RubyでつくるRuby ゼロから学びなおすプログラミング言語入門](https://www.lambdanote.com/collections/ruby-ruby/products/ruby-ruby-ebook)
-
-## コンパイラ・インタプリタ
-- [低レイヤを知りたい人のためのCコンパイラ作成入門](https://www.sigbus.info/compilerbook)
-- [ふつうのコンパイラをつくろう　言語処理系をつくりながら学ぶコンパイルと実行環境の仕組み](https://www.amazon.co.jp/dp/B06XZSH7Q9/)
-- [Pythonでインタプリタを作る　コンピュータ言語を設計・実装してインタプリタの動作を理解しよう](https://www.amazon.co.jp/dp/B08WRYZYVX)
-- [Go言語でつくるインタプリタ](https://www.oreilly.co.jp/books/9784873118222/)
-
-## CPU
-- [CPUを1から作ってみた話。](https://qiita.com/yusuke_blog1026/items/df60eabaf5cc961c02d7)
-- [CPUの創りかた](https://www.amazon.co.jp/dp/B08639XM13/)
-- [RISC-VとChiselで学ぶ　はじめてのCPU自作　――オープンソース命令セットによるカスタムCPU実装への第一歩](https://www.amazon.co.jp/dp/B09CT1T9HT)
-- [作ろう！CPU](https://www.amazon.co.jp/dp/B08GP3PPCX)
-- [動かしてわかる CPUの作り方10講](https://www.amazon.co.jp/dp/B07WNLZJC4)
+## コンピュータ
+- [コンピュータシステムの理論と実装](https://www.oreilly.co.jp/books/9784873117126/)
 
 ## OS
 - [チュートリアル – システムコールの書き方](https://postd.cc/kernel-dev-ep3/)
@@ -36,6 +18,23 @@ awesomeな自作hogehogeまとめ
 - [自作エミュレータで学ぶx86アーキテクチャ　コンピュータが動く仕組みを徹底理解！](https://www.amazon.co.jp/dp/B0148FQNVC)
 - [エミュレータ作ったらCPUを完全に理解した話 〜低レイヤ基礎知識を添えて〜](https://qiita.com/yusuke_blog1026/items/9ae25b5278a39556c8f9)
 - [OCaml でゲームボーイエミュレータを書いた話](https://qiita.com/linoscope/items/244d931aaae07df2c27e)
+
+## CPU
+- [CPUを1から作ってみた話。](https://qiita.com/yusuke_blog1026/items/df60eabaf5cc961c02d7)
+- [CPUの創りかた](https://www.amazon.co.jp/dp/B08639XM13/)
+- [RISC-VとChiselで学ぶ　はじめてのCPU自作　――オープンソース命令セットによるカスタムCPU実装への第一歩](https://www.amazon.co.jp/dp/B09CT1T9HT)
+- [作ろう！CPU](https://www.amazon.co.jp/dp/B08GP3PPCX)
+- [動かしてわかる CPUの作り方10講](https://www.amazon.co.jp/dp/B07WNLZJC4)
+
+## コンパイラ・インタプリタ
+- [低レイヤを知りたい人のためのCコンパイラ作成入門](https://www.sigbus.info/compilerbook)
+- [ふつうのコンパイラをつくろう　言語処理系をつくりながら学ぶコンパイルと実行環境の仕組み](https://www.amazon.co.jp/dp/B06XZSH7Q9/)
+- [Pythonでインタプリタを作る　コンピュータ言語を設計・実装してインタプリタの動作を理解しよう](https://www.amazon.co.jp/dp/B08WRYZYVX)
+- [Go言語でつくるインタプリタ](https://www.oreilly.co.jp/books/9784873118222/)
+
+## プログラミング言語
+- [新言語『TypoScript』を作った](https://qiita.com/kurehajime/items/e9a90c1d3705fbc8197a)
+- [RubyでつくるRuby ゼロから学びなおすプログラミング言語入門](https://www.lambdanote.com/collections/ruby-ruby/products/ruby-ruby-ebook)
 
 ## ネットワーク
 - [Rustで始めるTCP自作入門](https://www.amazon.co.jp/dp/B09FG2SL2S)
@@ -57,6 +56,9 @@ awesomeな自作hogehogeまとめ
 ## CMS
 - [フルスクラッチから1日でCMSを作る_シェルスクリプト高速開発手法入門](https://www.amazon.co.jp/dp/B07TSZZPWN)
 
+## RDB
+- [Rustで実装！作って学ぶRDBMSのしくみ](https://www.amazon.co.jp/dp/B092Q8SKDB)
+- [RustでPostgreSQLの拡張を作ってみる](https://qiita.com/sonesuke/items/0f9cd1baf8d11f3f4e16)
 
 ## 検索エンジン
 - [検索エンジン自作入門～手を動かしながら見渡す検索の舞台裏](https://www.amazon.co.jp/dp/B00NUZ32MU)
