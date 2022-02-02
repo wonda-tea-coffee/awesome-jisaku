@@ -25,6 +25,7 @@ awesomeな自作hogehogeまとめ
 - [RISC-VとChiselで学ぶ　はじめてのCPU自作　――オープンソース命令セットによるカスタムCPU実装への第一歩](https://www.amazon.co.jp/dp/B09CT1T9HT)
 - [作ろう！CPU](https://www.amazon.co.jp/dp/B08GP3PPCX)
 - [動かしてわかる CPUの作り方10講](https://www.amazon.co.jp/dp/B07WNLZJC4)
+- [Linux が動作する RISC-V CPU を自作した (2019 年度 CPU 実験 余興)](https://diary.shift-js.info/building-a-riscv-cpu-for-linux/)
 
 ## コンパイラ・インタプリタ
 - [低レイヤを知りたい人のためのCコンパイラ作成入門](https://www.sigbus.info/compilerbook)
