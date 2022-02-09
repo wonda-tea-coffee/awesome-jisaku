@@ -75,3 +75,4 @@ awesomeな自作hogehogeまとめ
 - [フルスクラッチでSHA-256を作る](https://zenn.dev/kota_yata/articles/ce45080b2e8cae)
 - [Chrome拡張でキーロガーが作れそうなことの確認と危険を避けるために拡張のソースを読む方法](https://zenn.dev/ken1flan/articles/2bbf632e8a36f1)
 - [OAuth 2.0 の勉強のために認可サーバーを自作する](https://qiita.com/TakahikoKawasaki/items/e508a14ed960347cff11)
+- [「別プロセスの PHP が今何をしているか」を実況するプログラムを PHP で作った](https://qiita.com/sj-i/items/a29d54cfd83f230ddc3d)
