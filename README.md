@@ -33,6 +33,9 @@ awesomeな自作hogehogeまとめ
 - [Pythonでインタプリタを作る　コンピュータ言語を設計・実装してインタプリタの動作を理解しよう](https://www.amazon.co.jp/dp/B08WRYZYVX)
 - [Go言語でつくるインタプリタ](https://www.oreilly.co.jp/books/9784873118222/)
 
+## バイナリ解析
+- [実践バイナリ解析　バイナリ計装、解析、逆アセンブリのためのLinuxツールの作り方](https://www.amazon.co.jp/dp/B09QLQ8DWG/)
+
 ## プログラミング言語
 - [新言語『TypoScript』を作った](https://qiita.com/kurehajime/items/e9a90c1d3705fbc8197a)
 - [RubyでつくるRuby ゼロから学びなおすプログラミング言語入門](https://www.lambdanote.com/collections/ruby-ruby/products/ruby-ruby-ebook)
