@@ -1,6 +1,9 @@
 # awesome-jisaku
 awesomeな自作hogehogeまとめ
 
+## Ruby
+- [Rubocop でカスタムルールを作る](https://moneyforward.com/engineers_blog/2021/09/02/rubocop/)
+
 ## コンピュータ
 - [コンピュータシステムの理論と実装](https://www.oreilly.co.jp/books/9784873117126/)
 
